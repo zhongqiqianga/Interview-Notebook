@@ -172,7 +172,8 @@ public char nextGreatestLetter(char[] letters, char target) {
 
 # 3. 有序数组的 Single Element
 
-540\. Single Element in a Sorted Array (Medium)
+540\. Single Element in a Sorted Array (Medium)判断mid的下标是不是偶数，如果是偶数并且和他下面的数相同，则要找的数在右半部分，否则在左半部分
+链接https://www.cnblogs.com/yjxyy/p/11106696.html
 
 [Leetcode](https://leetcode.com/problems/single-element-in-a-sorted-array/description/) / [力扣](https://leetcode-cn.com/problems/single-element-in-a-sorted-array/description/)
 
